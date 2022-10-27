@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+
+
 export default function FirstPost() {
   return (
     <>
@@ -10,3 +12,4 @@ export default function FirstPost() {
     </>
   );
 }
+date: '2022-10-25
